@@ -64,7 +64,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "ALSR Remover by Warranty Voider";
+            this.Text = "ASLR Remover by Warranty Voider";
             this.ResumeLayout(false);
 
         }
